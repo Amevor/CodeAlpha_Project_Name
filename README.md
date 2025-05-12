@@ -1,4 +1,4 @@
-Basic Network Sniffer
+**Basic Network Sniffer**
 
 Building a network sniffer like "The Sniffer" typically involves using a Python library such as Scapy, which is essential for tasks involving network analysis. Scapy allows precise control over packet handling, making it possible to directly inspect and manipulate network traffic. Running such tools generally requires administrator privileges. It’s also crucial to be aware of and comply with ethical and legal guidelines when intercepting network traffic. "The Sniffer" is intended to be a simple yet effective solution for tracking and examining network activity, offering valuable insights into the data moving through a network. Always ensure you have proper authorization and are respecting legal and privacy considerations before using this tool for packet capture.
 
